@@ -1,0 +1,23 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.scoutmasterbucky.com/superjp.html/sitemap.xml
+Sitemap: https://ftp.scoutmasterbucky.com/gilajp.html/sitemap.xml
+Sitemap: https://ftp.scoutmasterbucky.com/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.scoutmasterbucky.com/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.scoutmasterbucky.com/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.scoutmasterbucky.com/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.scoutmasterbucky.com/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.scoutmasterbucky.com/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.scoutmasterbucky.com/pakong86.html/sitemap.xml
+Sitemap: https://ftp.scoutmasterbucky.com/viral88.html/sitemap.xml
+Sitemap: https://ftp.scoutmasterbucky.com/clan4d.html/sitemap.xml
+Sitemap: https://ftp.scoutmasterbucky.com/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.scoutmasterbucky.com/elang212.html/sitemap.xml
+Sitemap: https://ftp.scoutmasterbucky.com/viral4d.html/sitemap.xml
